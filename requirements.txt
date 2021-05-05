@@ -1,0 +1,6 @@
+Flask==0.10.1
+requests
+flask_restful
+pyspark
+pandas
+IPython
